@@ -1,0 +1,20 @@
+[33mtag v1.0[m
+Tagger: Vishwavijeths <Vishwavijeth6@gmail.com>
+Date:   Tue Jul 30 12:10:08 2024 +0530
+
+df
+
+[33mcommit 1511a409ef3936118a625620e93216593e57eac1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-branch[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Vishwavijeths <Vishwavijeth6@gmail.com>
+Date:   Tue Jul 30 12:06:59 2024 +0530
+
+    jv
+
+[1mdiff --git a/a.txt b/a.txt[m
+[1mindex f98264f..333e520 100644[m
+[1m--- a/a.txt[m
+[1m+++ b/a.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ hello[m
+ hii[m
+[32m+[m[32mhel[m
